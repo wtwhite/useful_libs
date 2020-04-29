@@ -1,0 +1,14 @@
+Publics by module
+
+fileops 	size = 676
+	_compare_two_ints_by_first_asc    _get_file_size
+	_load_vector                      _safe_fread
+	_safe_fwrite                      _save_vector
+
+procargs	size = 805
+	_ProcessBooleanExtOption          _ProcessIntExtOption
+	_ProcessStringExtOption           _ProcessUnsignedExtOption
+
+timing_win	size = 81
+	_finalise_timing                  _get_elapsed_time
+	_get_time_difference              _init_timing
